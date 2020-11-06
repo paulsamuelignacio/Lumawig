@@ -1,2 +1,2 @@
 # Lumáwig
-An efficient algorithm to compute dimension zero bottleneck distance6 between two persistent diagrams.
+An efficient algorithm to compute dimension zero bottleneck distance between two persistence diagrams induced from a rips filtration.
